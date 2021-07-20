@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulianaCrudi
-- 👀 I’m interested in be a Front-End Dev
-- 🌱 I’m currently learning Java Script
+- 👀 I’m interested in be a Front-End Dev 
+- 🌱 I’m currently learning HTML/CSS/JS
 
 
 <!---
