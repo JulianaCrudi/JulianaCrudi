@@ -1,5 +1,7 @@
 ## Oii! Eu sou a Juliana Crudi
 
+#### Estudo Desenvolvimento Front-End
+
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julianacrudi&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
