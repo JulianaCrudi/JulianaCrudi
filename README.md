@@ -1,6 +1,6 @@
-## Oii! Eu sou a Juliana Crudi
+## Olá, Bem vindes ao meu perfil. Meu nome é Juliana Crudi
 
-#### Estudo Desenvolvimento Front-End
+#### Estou estudando desenvolvimento front-end e sempre estou postando os projetos feitos em aula.
 
  <div>
   <a href="https://github.com/rafaballerini">
